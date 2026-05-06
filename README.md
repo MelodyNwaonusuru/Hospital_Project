@@ -93,3 +93,24 @@ Key Findings
 
 <img width="1152" height="716" alt="WhatsApp Image 2026-05-06 at 11 35 01 (1)" src="https://github.com/user-attachments/assets/21e98076-0753-45ce-abbf-e6900242dc82" />
 
+**Recommendations**
+
+1. The hospital should urgently investigate the sharp revenue and profit decline from Q1 2023 through Q3 2023, developing a comprehensive recovery strategy focused on patient retention, referral partnerships, and service expansion to reverse the downward performance trend.
+2. Dermatology, Cardiology, and Neurology should receive increased investment in staffing, equipment, and resources as the hospital's three highest revenue-generating specialties, to further maximize their financial contribution and strengthen overall hospital performance.
+3. A structured performance development programme should be introduced for underperforming doctors, particularly those recording 0% or low year-on-year revenue growth, with a mentorship initiative pairing them with top performers such as Ava Adams and Liam Turner.
+4. The hospital should design targeted healthcare packages and preventive care programmes for patients in their 30s, who represent the largest and most profitable demographic, while developing outreach programmes for patients in their 50s to increase their service utilization.
+5. General Medicine and Dentistry, which record the lowest profit margins across all procedure categories, should undergo a thorough cost and pricing review to identify inefficiencies and improve their financial contribution to overall hospital performance.
+6. A quarterly performance monitoring framework should be established to track revenue, profit, expenses, and patient volumes in real time, enabling hospital leadership to detect early warning signs of decline and respond proactively before performance deteriorates.
+7. The hospital should introduce loyalty and referral programmes targeting high-value patients such as Harper Young and Ethan Lopez to incentivize satisfied patients to recommend Lifeline Hospital, driving new patient acquisition across all operational states.
+8. Gender-specific health programmes and campaigns should be introduced to attract more male patients, who currently represent the smaller patient group, to close the volume gap and unlock additional revenue opportunities for the hospital.
+9. The hospital should expand operational capacity in California and New York, which lead in revenue generation, while simultaneously investing in marketing and outreach efforts in underperforming states to drive patient volume and overall revenue growth.
+10. Lifeline Hospital should diversify its procedure offerings by introducing new categories in high-demand medical fields, reducing dependence on existing procedures, and attracting a broader patient demographic to achieve more stable and sustainable long-term financial performance.
+
+**Tools Used Tool Purpose**
+
+1. Power BI Desktop — Data modelling, DAX measure development, dashboard design and layout
+2. Power Query (M) — Data transformation, column structuring, data type enforcement
+3. DAX KPI measures — Gross Profit Margin, Marketing ROI, MoM Revenue Growth %, Average Discount, Total Revenue Per Product, conditional formatting logic
+4. Star Schema Modelling — Structured the data model with one fact table and five dimension tables for clean cross-filtering
+5. Custom Date Table — Built manually in Power Query to enable accurate time intelligence and correct Month Name ordering.
+
