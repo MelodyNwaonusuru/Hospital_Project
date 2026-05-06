@@ -24,7 +24,7 @@ Key Areas of Analysis
 
 This aims to identify opportunities for improved resource allocation and operational efficiency across all service areas.
 
-Data Structure & Initial Checks
+**Data Structure & Initial Checks**
 
 Lifeline's Database is below the connection of five tables transaction, doctors, patients, procedure and date with 230 orders
 
