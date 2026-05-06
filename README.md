@@ -23,3 +23,9 @@ Key Areas of Analysis
 4. Procedural & Financial Analysis: An investigation into the range of medical procedures performed at Lifeline Hospital, examining procedure frequency, associated costs, and financial outcomes.
 
 This aims to identify opportunities for improved resource allocation and operational efficiency across all service areas.
+
+Data Structure & Initial Checks
+
+Lifeline's Database is below the connection of five tables transaction, doctors, patients, procedure and date with 230 orders
+
+
