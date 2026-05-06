@@ -26,7 +26,7 @@ This aims to identify opportunities for improved resource allocation and operati
 
 **Data Structure & Initial Checks**
 
-Lifeline's Database is below the connection of six tables: transaction, doctors, patients, Location, procedure and date with 230 transactions.
+Lifeline's database consists of six tables: transactions, doctors, patients, Location, procedure and date, with 230 transactions.
 
 <img width="1163" height="664" alt="WhatsApp Image 2026-05-06 at 12 11 33" src="https://github.com/user-attachments/assets/340b88eb-b210-4fbc-b0b1-8aaa331b966e" />
 
@@ -41,6 +41,7 @@ Lifeline's Database is below the connection of six tables: transaction, doctors,
 
 <img width="1151" height="717" alt="WhatsApp Image 2026-05-06 at 11 35 00" src="https://github.com/user-attachments/assets/553f9006-bd6a-4ca9-ba1c-ea5f33c8666f" />
 
+
 **Insight Deep Dive — Doctor Performance**
 
 Key Findings
@@ -53,6 +54,7 @@ Key Findings
 
 <img width="1151" height="711" alt="WhatsApp Image 2026-05-06 at 11 35 01" src="https://github.com/user-attachments/assets/28eb0954-4b47-470f-b03d-bb8fc82330dc" />
 
+
 **Insight Deep Dive — Patient Demographics & Impact**
 
 Key Findings
@@ -64,6 +66,7 @@ Key Findings
 5. Average revenue per patient stands at $3,181 across 86 total patients, with 230 total transactions recorded, suggesting that most patients underwent multiple procedures during their time at the hospital.
 
 <img width="1149" height="711" alt="WhatsApp Image 2026-05-06 at 11 35 00 (1)" src="https://github.com/user-attachments/assets/e8d6c6d0-a0e5-4aff-9da9-617a89908d73" />
+
 
 **Insight Deep Dive — Procedure & Financial Analysis**
 
