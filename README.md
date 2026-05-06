@@ -26,6 +26,14 @@ This aims to identify opportunities for improved resource allocation and operati
 
 **Data Structure & Initial Checks**
 
-Lifeline's Database is below the connection of five tables transaction, doctors, patients, procedure and date with 230 orders
+Lifeline's Database is below the connection of five tables transaction, doctors, patients, procedure and date with 230 transactions.
+
+**Executive Summary — Hospital Executive Overview**
+
+<img width="1151" height="717" alt="WhatsApp Image 2026-05-06 at 11 35 00" src="https://github.com/user-attachments/assets/553f9006-bd6a-4ca9-ba1c-ea5f33c8666f" />
+
+
+
+
 
 
