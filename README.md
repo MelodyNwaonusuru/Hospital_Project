@@ -2,7 +2,7 @@
 
 **Overview**
 
-Lifeline Hospital is a multi-specialty healthcare institution established in 2018 and headquartered in the United States. The hospital serves a diverse patient population across multiple states, offering a broad range of medical procedures including diagnostics, surgical interventions, and post-operative rehabilitation. Its multidisciplinary team of licensed physicians and specialists is committed to delivering accessible, high-quality care to every patient. As the hospital continues to expand, there is a growing need for a structured system to efficiently manage patient records, procedures, and overall hospital operations. This project aims to develop a reliable solution that streamlines these processes and supports Lifeline Hospital's mission of excellent patient care.
+Lifeline Hospital is a multi-specialty healthcare institution established in 2018 and headquartered in the United States. The hospital serves a diverse patient population across multiple states, offering a broad range of medical procedures, including diagnostics, surgical interventions, and post-operative rehabilitation. Its multidisciplinary team of licensed physicians and specialists is committed to delivering accessible, high-quality care to every patient. As the hospital continues to expand, there is a growing need for a structured system to efficiently manage patient records, procedures, and overall hospital operations. This project aims to develop a reliable solution that streamlines these processes and supports Lifeline Hospital's mission of excellent patient care.
 
 **Problem Statement**
 
