@@ -14,13 +14,13 @@ This project delivers a structured and comprehensive system for managing Lifelin
 
 **Key Areas of Analysis**
 
-1. Doctor Performance: An evaluation of individual and departmental doctor performance across Lifeline Hospital, examining patient outcomes and procedure success rates. 
+1. **Doctor Performance**: An evaluation of individual and departmental doctor performance across Lifeline Hospital, examining patient outcomes and procedure success rates. 
 
-2. Patient Demographics & Impact: An analysis of the hospital's patient base, exploring demographic factors. This helps understand how these characteristics influence treatment patterns, procedure demands, and overall healthcare outcomes.
+2. **Patient Demographics & Impact**: An analysis of the hospital's patient base, exploring demographic factors. This helps understand how these characteristics influence treatment patterns, procedure demands, and overall healthcare outcomes.
 
-3. Hospital Performance Trends: An evaluation of the hospital's overall performance over time, tracking patterns in patient admissions, service utilisation, and operational output across all states.
+3. **Hospital Performance Trends**: An evaluation of the hospital's overall performance over time, tracking patterns in patient admissions, service utilisation, and operational output across all states.
 
-4. Procedural & Financial Analysis: An investigation into the range of medical procedures performed at Lifeline Hospital, examining procedure frequency, associated costs, and financial outcomes.
+4. **Procedural & Financial Analysis**: An investigation into the range of medical procedures performed at Lifeline Hospital, examining procedure frequency, associated costs, and financial outcomes.
 
 This aims to identify opportunities for improved resource allocation and operational efficiency across all service areas.
 
