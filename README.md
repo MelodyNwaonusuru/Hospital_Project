@@ -34,10 +34,14 @@ Lifeline's database consists of six tables: transactions, doctors, patients, Loc
 **Executive Summary — Hospital Executive Overview**
 
 1. Lifeline Hospital generated $273,560 in total revenue, $85,050 in total profit, and a 31.09% profit margin across 230 transactions and 86 total patients served across all operational states.
-2. California outperformed New York in both total revenue ($142K vs $132K) and total profit ($45K vs $40K), while Dermatology led specialty revenue at $68.35K, followed closely by Cardiology at $60.80K and Neurology at $58.50K.
-3. Patients in their 30s dominated volume and profitability, accounting for 39 patients and $63K in total profit, significantly outperforming all other age groups across the hospital's service areas.
-4. Revenue peaked at Q4 2022 ($44.36K) before experiencing a sharp decline through 2023, with Q3 2023 recording the lowest revenue of $8.90K, indicating a significant performance drop requiring urgent operational review.
-5. Female patients slightly outnumbered male patients (47 vs 39), and the average revenue per patient stood at $3,181, with the hospital's 81 doctors generating an average revenue of $3,377 per doctor across all procedures.
+
+2. California ($142K) outperforms New York ($131.6K) in revenue, while both states maintain similar net profit margins (31%). This suggests broadly consistent profitability across markets, though differences in revenue may reflect higher procedure volumes, payer mix, or case composition (e.g., dermatology or radiology) in California.
+
+3. A predominance of patients in their 30s suggests that the hospital mainly provides preventive, outpatient, and diagnostic services for working-age adults
+
+4. An average revenue of approximately $1,189 per transaction suggests a moderate transaction value, likely associated with outpatient and diagnostic services. Revenue could be increased through service bundling and the gradual expansion of specialized procedures.
+
+5. 47 male vs 39 female patients: a 17% gap that may signal underserved women's health needs. Male-skewed patient volumes in specialty care can reflect underdiagnosis or access barriers for women. Adding women's health specialties (OB/GYN, breast imaging, endocrinology) could close the gap and open a large untapped revenue stream, particularly in the 30s age group.
 
 <img width="1151" height="717" alt="WhatsApp Image 2026-05-06 at 11 35 00" src="https://github.com/user-attachments/assets/553f9006-bd6a-4ca9-ba1c-ea5f33c8666f" />
 
@@ -46,11 +50,17 @@ Lifeline's database consists of six tables: transactions, doctors, patients, Loc
 
 Key Findings
 
-1. Ava Adams leads all doctors with the highest total revenue of $24,750 and a profit of $8,510, recording the strongest profit margin of 34.38% among all 81 doctors.
-2. The top 5 doctors — Ava Adams, Liam Turner, Benjamin Hill, Emma Wright, and William Carter — collectively dominate total hospital revenue, highlighting a concentration of performance among a small group of practitioners.
-3. Male doctors slightly outnumber female doctors (42 vs 39), yet top revenue performers are evenly distributed across both genders, suggesting gender has no significant influence on doctor performance.
-4. Dermatologist specialists generate the highest revenue by specialty at $68.35K, followed by Cardiologists at $60.80K and Neurologists at $58.50K, making these three specialties the hospital's most commercially valuable.
-5. Jackson Mitchell recorded 0% year-on-year revenue growth, while several other doctors showed notably low YoY growth, signalling performance stagnation that warrants management intervention.
+1. Ava Adams generated $24.75K in revenue, nearly twice that of the second-highest earning physician, Liam Turner ($20.33K). This indicates a notable concentration of revenue among a small number of physicians, which may expose the hospital to operational and financial risk if key personnel reduce their workload or leave the organization.
+
+2. Doctor gender split is nearly equal,  42 male vs 39 female, indicating good workforce diversity. A near-parity workforce is associated with better patient satisfaction scores, broader referral networks, and reduced gender bias in diagnosis. 
+   
+3. Doctors in their 50s contribute only $0.74K in profit — vs $62.54K for 40s — a striking drop-off
+This suggests very few doctors in the 50s age bracket, or that older physicians are working reduced schedules. This creates a knowledge-transfer and succession risk, particularly in high-specialized roles like neurology and cardiology, where decades of patient relationships hold financial value.
+
+4. Dermatology generated approximately $68.35K more in revenue than cardiology and neurology combined, making it the hospital’s leading specialty area. The treemap further highlights the strong revenue contribution of cardiology and neurology, which may have greater reimbursement potential due to the complexity of their procedures.
+   
+5. Strong year-over-year revenue growth among several mid-tier physicians, such as Elijah Mitchell (90.47%), may reflect increasing clinical activity and patient demand. Supporting these physicians with adequate resources could help sustain long-term revenue growth. 
+
 
 <img width="1151" height="711" alt="WhatsApp Image 2026-05-06 at 11 35 01" src="https://github.com/user-attachments/assets/28eb0954-4b47-470f-b03d-bb8fc82330dc" />
 
@@ -59,11 +69,15 @@ Key Findings
 
 Key Findings
 
-1. Patients in their 30s represent the largest and most profitable demographic, accounting for 39 patients and $63K in total profit, significantly outperforming all other age groups.
-2. Female patients (47) outnumber male patients (39), yet both genders contribute comparably to overall revenue, suggesting gender does not significantly influence patient spending patterns.
-3. Harper Young ranks as the most profitable patient, generating $5.07K in total profit at a 30.43% margin, with the top 5 patients by profit all maintaining consistent margins above 30%.
-4. Patients in their 50s generate the lowest average revenue of $1,064 per patient, indicating reduced procedure engagement among older demographics compared to younger age groups.
-5. Average revenue per patient stands at $3,181 across 86 total patients, with 230 total transactions recorded, suggesting that most patients underwent multiple procedures during their time at the hospital.
+1. 20s patients generate the highest average revenue ($1,264) despite being the smallest group (8 patients). Young patients with fewer visits generating the highest average revenue likely indicate high-cost acute or diagnostic procedures (e.g., imaging, injury treatment). This is unsustainable as a core revenue driver; these are episodic, not recurring visits. The 30s cohort at $1,245 average with 39 patients is a far more reliable revenue anchor.
+ 
+2. Harper Young generated the highest patient profit at $5.07K with a 30.43% margin, which is broadly aligned with the hospital’s average margin. The top five patients (Harper Young through Mia Adams) contributed approximately 22% of total profit despite representing only 5.8% of the patient population. This concentration suggests that a small group of patients contributes disproportionately to profitability.
+
+3. John Doe and Olivia Anderson recorded year-over-year revenue growth of 50% and 66.85%, respectively, indicating increased utilization of hospital services. This trend may reflect greater healthcare needs, more frequent visits, or expanded use of specialized services.
+
+4. Patients in their 50s generated the lowest average revenue per patient ($1,064), despite older age groups often being associated with higher healthcare utilization. This may reflect the relatively small cohort size (8 patients) or differences in the types of services received.
+
+5. The clustering of patient profit margins around 30–32% suggests a largely uniform margin structure, potentially driven by standardized pricing or reimbursement arrangements. This may warrant further review to determine whether higher-complexity cases are adequately differentiated in revenue allocation.
 
 <img width="1149" height="711" alt="WhatsApp Image 2026-05-06 at 11 35 00 (1)" src="https://github.com/user-attachments/assets/e8d6c6d0-a0e5-4aff-9da9-617a89908d73" />
 
@@ -72,11 +86,15 @@ Key Findings
 
 Key Findings
 
-1. Dermatology leads all procedure categories in both total revenue at $38.60K and total profit at $12.12K, making it the most commercially valuable category across all of Lifeline Hospital's service areas.
-2. Radiology and Pediatrics follow as the second and third highest revenue-generating categories at $36.55K and $34.94K, respectively, reinforcing their strategic importance to the hospital's financial performance.
-3. General Medicine and Dentistry rank as the bottom two categories in profitability, recording just $6.28K and $6.58K in profit, respectively, signalling margin pressure that requires operational review.
-4. Heart Bypass Surgery stands out as the highest revenue individual procedure at $31.16K, while Skin Biopsy under Dermatology leads all procedures in total revenue at $38.60K, further validating Dermatology's dominance.
-5. Average profit per procedure stands at $8,505 against an average revenue per procedure of $27,356, reflecting a relatively healthy but unevenly distributed profit margin across the hospital's 10 procedure categories.
+1. Dermatology leads both in revenue ($38.6K) and profit ($12.12K), making it the strongest performing specialty in absolute financial terms. This suggests strong overall demand and favourable revenue contribution relative to other departments.
+
+2. General Medicine records the lowest profit ($6.28K), despite generating relatively high revenue from General Checkups ($21,050) against expenses of $14,770, resulting in a thin margin. This may indicate that General Medicine functions primarily as an entry point for patient care, with potential downstream referrals to higher-margin specialties such as cardiology, radiology, and dermatology.
+  
+3. Radiology generates $36.55K in revenue across two procedures (MRI and X-Ray), indicating strong output from a limited service set. MRI ($17K revenue, $11.8K cost) and X-Ray ($19.5K revenue, $13.7K cost) both require high upfront capital investment but typically have lower incremental costs per additional scan, depending on utilization levels.
+
+4. The overall profit margin of 31% suggests relatively stable profitability across services. Differences in total profit are therefore more likely driven by revenue volume rather than margin variation, though this should be validated with more granular category-level analysis.
+   
+5. The top three categories (Dermatology, Radiology, and Pediatrics) account for approximately 55% of total revenue, indicating a moderate level of revenue concentration. This suggests that performance in a small number of specialties has a meaningful impact on overall hospital revenue. As a result, changes in key service lines—such as shifts in physician availability, equipment utilization, or payer agreements—could materially affect total revenue performance.
 
 <img width="1147" height="715" alt="WhatsApp Image 2026-05-06 at 11 35 02" src="https://github.com/user-attachments/assets/6de33328-329f-4847-b5ce-b2acf310ce46" />
 
