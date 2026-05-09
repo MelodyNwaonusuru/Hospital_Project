@@ -31,6 +31,7 @@ Lifeline's database consists of six tables: transactions, doctors, patients, Loc
 <img width="1163" height="664" alt="WhatsApp Image 2026-05-06 at 12 11 33" src="https://github.com/user-attachments/assets/340b88eb-b210-4fbc-b0b1-8aaa331b966e" />
 
 
+
 **Executive Summary — Hospital Executive Overview**
 
 1. Lifeline Hospital generated $273,560 in total revenue, $85,050 in total profit, and a 31.09% profit margin across 230 transactions and 86 total patients served across all operational states.
