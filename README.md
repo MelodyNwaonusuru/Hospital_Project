@@ -127,16 +127,20 @@ Revenue fell 80% from the 2022 peak to Q3 2023. The cost base tracks revenue —
 5. Invest in fast-growth doctors before competitors poach them: Elijah Mitchell (90.47% YoY), Olivia Anderson (66.85%), and John Doe (50%) are on steep productivity growth curves, building patient panels and referral networks rapidly. These doctors are most vulnerable to better offers elsewhere. Assign dedicated admin support, upgrade their facilities, and lock in multi-year contracts now while their loyalty is still forming.
 
 6. Build a VIP patient programme for top-profit patients: The top 5 patients (Harper Young, Ethan Lopez, et al.) generate ~22% of profit from just 5.8% of the patient base. These high-value patients have premium insurance, complex multi-service needs, and strong follow-up rates. A dedicated care coordinator, priority scheduling, annual health reviews, and proactive specialist referrals would significantly improve retention and lifetime value.
-9. The hospital should introduce loyalty and referral programmes targeting high-value patients such as Harper Young and Ethan Lopez to incentivize satisfied patients to recommend Lifeline Hospital, driving new patient acquisition across all operational states.
-10. Gender-specific health programmes and campaigns should be introduced to attract more male patients, who currently represent the smaller patient group, to close the volume gap and unlock additional revenue opportunities for the hospital.
-11. The hospital should expand operational capacity in California and New York, which lead in revenue generation, while simultaneously investing in marketing and outreach efforts in underperforming states to drive patient volume and overall revenue growth.
-12. Lifeline Hospital should diversify its procedure offerings by introducing new categories in high-demand medical fields, reducing dependence on existing procedures, and attracting a broader patient demographic to achieve more stable and sustainable long-term financial performance.
+
+7. Shift from cost-plus to value-based pricing on high-demand procedures: Every patient margin clusters tightly at 30–32%, suggesting standardized cost-plus pricing. This leaves money on the table for high-demand, low-availability procedures like cardiac imaging, Mohs surgery, and MRI. Dynamic pricing charging premium rates where demand exceeds capacity,  could expand margins on 20–30% of procedures without affecting the broader patient panel.
+
+8. Reduce specialty concentration risk by diversifying into surgery and orthopedics: The top 3 categories (Dermatology, Radiology, Pediatrics) generate 55% of revenue. Any physician departure, equipment failure, or payer contract change in dermatology alone could cause a 14% revenue drop. Strategically building volume in Surgery ($29.9K) and Orthopedics ($33.8K) already in the portfolio would spread risk while entering two higher complexity, higher-reimbursement service lines.
+
+9. Double down on California and replicate what's working there in New York: California ($142K) outperforms New York ($131.6K) in revenue while both maintain ~31% profit margins — confirming the model translates across markets. California's edge likely reflects a better procedure or payer mix. A granular analysis of California's case mix vs New York's would reveal exactly which services to promote harder in New York to close the $10K revenue gap.
+
+10. Introduce procedure bundling to raise average transaction value: At an average revenue per transaction of $1,189, the hospital is leaving upsell revenue uncaptured. Bundling related services, e.g. MRI scan + radiologist consultation + follow-up; skin biopsy + dermatologist review + treatment plan, increases visit value without adding a new patient. Even a 15% improvement in average transaction value would add $41K in annual revenue at current volume levels.
 
 **Tools Used Tool Purpose**
 
 1. Power BI Desktop — Data modelling, DAX measure development, dashboard design and layout
 2. Power Query (M) — Data transformation, column structuring, data type enforcement
-3. DAX KPI measures — Total Revenue, Total Profit, Total Expense, Total Doctors, Total Patients, conditional formatting logic.
+3. DAX KPI measures — Total Revenue, Total Profit, Total Expense, Total Doctors, Total Patients, and conditional formatting logic.
 4. Star Schema Modelling — Structured the data model with one fact table and five dimension tables for clean cross-filtering
 5. Custom Date Table — Built manually in Power Query to enable accurate time intelligence and correct Month Name ordering.
 
