@@ -28,7 +28,7 @@ This aims to identify opportunities for improved resource allocation and operati
 
 Lifeline's database consists of six tables: transactions, doctors, patients, Location, procedure, and date, with 230 transactions.
 
-<img width="1163" height="664" alt="WhatsApp Image 2026-05-06 at 12 11 33" src="https://github.com/user-attachments/assets/340b88eb-b210-4fbc-b0b1-8aaa331b966e" />
+![Dashboard Preview](https://github.com/MelodyNwaonusuru/Hospital_Project/blob/main/Screenshot%202026-05-04%20212940.png?raw=true)
 
 
 ![Hospital Dashboard](assets/dashboard_preview.png)
