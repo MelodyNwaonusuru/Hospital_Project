@@ -28,7 +28,7 @@ This aims to identify opportunities for improved resource allocation and operati
 
 Lifeline's database consists of six tables: transactions, doctors, patients, Location, procedure, and date, with 230 transactions.
 
-![Dashboard Preview](https://github.com/MelodyNwaonusuru/Hospital_Project/blob/main/Screenshot%202026-05-04%20212940.png?raw=true)
+![image alt]((https://github.com/MelodyNwaonusuru/Hospital_Project/blob/main/Screenshot%202026-05-04%20212940.png?raw=true)
 
 
 The below is the interactive dashboard Files
@@ -47,7 +47,7 @@ The below is the interactive dashboard Files
 
 5. 47 male vs 39 female patients: a 17% gap that may signal underserved women's health needs. Male-skewed patient volumes in specialty care can reflect underdiagnosis or access barriers for women. Adding women's health specialties (OB/GYN, breast imaging, endocrinology) could close the gap and open a large untapped revenue stream, particularly in the 30s age group.
 
-<img width="1151" height="717" alt="WhatsApp Image 2026-05-06 at 11 35 00" src="https://github.com/user-attachments/assets/553f9006-bd6a-4ca9-ba1c-ea5f33c8666f" />
+![image alt](https://github.com/MelodyNwaonusuru/Hospital_Project/blob/main/Screenshot%202026-05-10%20162436.png?raw=true)
 
 
 **Insight Deep Dive — Doctor Performance**
