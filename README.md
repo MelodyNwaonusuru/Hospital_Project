@@ -31,10 +31,8 @@ Lifeline's database consists of six tables: transactions, doctors, patients, Loc
 ![Dashboard Preview](https://github.com/MelodyNwaonusuru/Hospital_Project/blob/main/Screenshot%202026-05-04%20212940.png?raw=true)
 
 
-![Hospital Dashboard](assets/dashboard_preview.png)
-
-[Download the Power BI file](https://github.com/MelodyNwaonusuru/Hospital_Project/blob/main/Hospital_Data.pbix)
-
+The below is the interactive dashboard Files
+- [Download Power BI Dashboard (.pbix)](https://github.com/MelodyNwaonusuru/Hospital_Project/blob/main/Hospital_Data.pbix)
 
 
 **Executive Summary — Hospital Executive Overview**
