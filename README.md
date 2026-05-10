@@ -66,7 +66,7 @@ This suggests very few doctors in the 50s age bracket, or that older physicians 
 5. Strong year-over-year revenue growth among several mid-tier physicians, such as Elijah Mitchell (90.47%), may reflect increasing clinical activity and patient demand. Supporting these physicians with adequate resources could help sustain long-term revenue growth. 
 
 
-<img width="1151" height="711" alt="WhatsApp Image 2026-05-06 at 11 35 01" src="https://github.com/user-attachments/assets/28eb0954-4b47-470f-b03d-bb8fc82330dc" />
+![image alt](https://github.com/MelodyNwaonusuru/Hospital_Project/blob/main/Screenshot%202026-05-10%20162625.png?raw=true)
 
 
 **Insight Deep Dive — Patient Demographics & Impact**
