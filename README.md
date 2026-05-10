@@ -83,7 +83,7 @@ Key Findings
 
 5. The clustering of patient profit margins around 30–32% suggests a largely uniform margin structure, potentially driven by standardized pricing or reimbursement arrangements. This may warrant further review to determine whether higher-complexity cases are adequately differentiated in revenue allocation.
 
-<img width="1149" height="711" alt="WhatsApp Image 2026-05-06 at 11 35 00 (1)" src="https://github.com/user-attachments/assets/e8d6c6d0-a0e5-4aff-9da9-617a89908d73" />
+![image alt]https://github.com/MelodyNwaonusuru/Hospital_Project/blob/main/Screenshot%202026-05-10%20162735.png?raw=true)
 
 
 **Insight Deep Dive — Procedure & Financial Analysis**
