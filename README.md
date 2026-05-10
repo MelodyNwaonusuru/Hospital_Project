@@ -115,7 +115,7 @@ Key Findings
    
 4. In 2021–2022, it showed strong growth (+115% revenue), suggesting the model works at scale. The rise from $20.65K (Q1 2021) to $44.36K (Q3 2022) validates the underlying business model and physician mix. The hospital can recover if the 2023 volume decline is reversed — indicating the priority should be demand recovery, not cost-cutting.
 
-<img width="1152" height="716" alt="WhatsApp Image 2026-05-06 at 11 35 01 (1)" src="https://github.com/user-attachments/assets/21e98076-0753-45ce-abbf-e6900242dc82" />
+![image alt](https://github.com/MelodyNwaonusuru/Hospital_Project/blob/main/Screenshot%202026-05-10%20163250.png?raw=true)
 
 **Recommendations**
 
