@@ -83,7 +83,7 @@ Key Findings
 
 5. The clustering of patient profit margins around 30–32% suggests a largely uniform margin structure, potentially driven by standardized pricing or reimbursement arrangements. This may warrant further review to determine whether higher-complexity cases are adequately differentiated in revenue allocation.
 
-![image alt]https://github.com/MelodyNwaonusuru/Hospital_Project/blob/main/Screenshot%202026-05-10%20162735.png?raw=true)
+![image alt](https://github.com/MelodyNwaonusuru/Hospital_Project/blob/main/Screenshot%202026-05-10%20162735.png?raw=true)
 
 
 **Insight Deep Dive — Procedure & Financial Analysis**
@@ -100,7 +100,7 @@ Key Findings
    
 5. The top three categories (Dermatology, Radiology, and Pediatrics) account for approximately 55% of total revenue, indicating a moderate level of revenue concentration. This suggests that performance in a small number of specialties has a meaningful impact on overall hospital revenue. As a result, changes in key service lines—such as shifts in physician availability, equipment utilization, or payer agreements—could materially affect total revenue performance.
 
-<img width="1147" height="715" alt="WhatsApp Image 2026-05-06 at 11 35 02" src="https://github.com/user-attachments/assets/6de33328-329f-4847-b5ce-b2acf310ce46" />
+![image alt](https://github.com/MelodyNwaonusuru/Hospital_Project/blob/main/Screenshot%202026-05-10%20162820.png?raw=true)
 
 
 **Insight Deep Dive — Hospital Performance Trend**
