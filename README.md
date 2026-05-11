@@ -1,3 +1,21 @@
+🏥 Lifeline International Hospital — Patient & Operations Analysis
+Power BI Project | 230 Transactions | Raw Data ➝ Insights ➝ Strategy
+
+## 📚 Table of Contents
+
+- [Project Background](#project-background)
+- [Problem Statement](#problem-statement)
+- [Project Objective](#project-objective)
+- [Key Areas of Analysis](#key-areas-of-analysis)
+- [Data Structure & Initial Checks](#data-structure--initial-checks)
+- [Executive Summary](#executive-summary)
+- [Insight Deep Dive — Doctor Performance](#insight-deep-dive--doctor-performance)
+- [Insight Deep Dive — Patient Demographics & Impact](#insight-deep-dive--patient-demographics--impact)
+- [Insight Deep Dive — Procedure & Financial Analysis](#insight-deep-dive--procedure--financial-analysis)
+- [Insight Deep Dive — Hospital Performance Trend](#insight-deep-dive--hospital-performance-trend)
+- [Recommendations](#recommendations)
+- [Tools Used](#tools-used)
+
 **Lifeline International Hospital - Project Background**
 
 **Overview**
