@@ -159,7 +159,9 @@ Revenue fell 80% from the 2022 peak to Q3 2023. The cost base tracks revenue —
 
 10. Introduce procedure bundling to raise average transaction value: At an average revenue per transaction of $1,189, the hospital is leaving upsell revenue uncaptured. Bundling related services, e.g. MRI scan + radiologist consultation + follow-up; skin biopsy + dermatologist review + treatment plan, increases visit value without adding a new patient. Even a 15% improvement in average transaction value would add $41K in annual revenue at current volume levels.
 
-**Tools Used Tool Purpose**
+**Tools Used**
+
+Tool Purpose
 
 1. Power BI Desktop — Data modelling, DAX measure development, dashboard design and layout
 2. Power Query (M) — Data transformation, column structuring, data type enforcement
